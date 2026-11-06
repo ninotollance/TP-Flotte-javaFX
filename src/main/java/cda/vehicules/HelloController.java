@@ -1,4 +1,4 @@
-package cda.vehicules.demo;
+package cda.vehicules;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

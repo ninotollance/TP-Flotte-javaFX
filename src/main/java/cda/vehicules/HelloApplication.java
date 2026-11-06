@@ -1,4 +1,4 @@
-package cda.vehicules.demo;
+package cda.vehicules;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
